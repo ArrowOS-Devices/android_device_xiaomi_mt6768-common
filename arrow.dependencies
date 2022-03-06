@@ -6,5 +6,9 @@
   {
     "repository": "android_vendor_xiaomi_mt6768-ims",
     "target_path": "vendor/xiaomi/mt6768-ims"
+  },
+  {
+    "repository": "android_packages_apps_GCamGOPrebuilt",
+    "target_path": "packages/apps/GCamGOPrebuilt"
   }
 ]
